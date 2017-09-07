@@ -1,0 +1,7 @@
+DATA WRANGLING- process and report of the project
+
+osm main.ipynb - The codes for data importing ,auditing, and exporting 
+
+sample.osm - a sample osm file
+
+schema.py - default schema for tables in database
